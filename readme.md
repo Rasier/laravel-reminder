@@ -4,7 +4,7 @@
 
 Using Composer
 
-    composer require codecourse/notify
+    composer require rry/reminder
 
 Add the service provider to `config/app.php`
 
